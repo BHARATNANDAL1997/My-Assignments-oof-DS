@@ -1,2 +1,2 @@
-# My-Assignments-oof-DS
+# My-Assignments-of-DS
 Assignments
